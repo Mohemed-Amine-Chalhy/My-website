@@ -1,0 +1,79 @@
+site_name: Mohamed Amine CHALHY 
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette: 
+
+
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+
+
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+
+  
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search
+  
+  - tags:
+     tags_file: tag.md   
+  
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+    - Home: index.md
+    - About:
+      - About Me: about/about.md
+      - Childhood: about/childhood.md
+    - Code: 
+      - Python: coding/my-first-python-file.md
+    
+    - Tags: tag.md
+
+    
+    
+
+extra:
+  generator: false
+
+
+
+
+
+  
