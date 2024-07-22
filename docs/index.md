@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Welcome to My Personal Website
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## About Me
+Hi, I'm **Mohamed Amine CHALHY**, a passionate engineering student at [EMINES](https://www.emines-ingenieur.org/)-[UM6P](https://um6p.ma/). Welcome to my personal space on the web where I share my projects, thoughts, and experiences. 
 
-## Project layout
+## What I Do
+- **Professional Background**: I'm currently pursuing my engineering degree at [EMINES](https://www.emines-ingenieur.org/)-[UM6P](https://um6p.ma/), 
+- **Hobbies and Interests**: My areas of interest include **mathematics**, **machine learning**, and **programming**.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+
+## Contact Me
+Feel free to reach out to me through any of the following channels:
+
+   - **[Email](mailto:Mohamed.CHALHY@emines.um6p.ma)** 
+   - **[LinkedIn](https://www.linkedin.com/in/yourprofile)**
+
+---
+
+

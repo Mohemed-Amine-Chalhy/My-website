@@ -84,5 +84,5 @@ styled_df.to_excel('styled.xlsx', engine='openpyxl')
 styled_df.render()
 ```
 
-# Example 
+
 
