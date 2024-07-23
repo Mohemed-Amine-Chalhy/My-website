@@ -38,9 +38,13 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+    - toc.integrate
 
 plugins:
   - search
+  - mkdocs-jupyter
+  - blog
+  
   
   - tags:
      tags_file: tag.md   
@@ -65,6 +69,10 @@ nav:
       - Pandas Styler: coding/my-first-python-file.md
     
     - Tags: tag.md
+    - Notebook page: coding/Lesson 4.ipynb
+    - Blog:
+        - Blog:
+          - blog/index.md
 
     
     
