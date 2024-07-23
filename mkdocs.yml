@@ -66,10 +66,10 @@ nav:
       - About Me: about/about.md
       
     - Projects & Notes: 
-      - Pandas Styler: coding/my-first-python-file.md
+      - Projet de l'optimisation: coding/projet de l optimisation.ipynb
     
     - Tags: tag.md
-    - Notebook page: coding/Lesson 4.ipynb
+    
     - Blog:
         - Blog:
           - blog/index.md
