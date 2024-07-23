@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: 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
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -50,11 +48,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: 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
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
